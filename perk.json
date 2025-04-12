@@ -1,0 +1,510 @@
+[
+    {
+        "Japanese": "看護婦の使命",
+        "English": "A Nurse’s Calling"
+    },
+    {
+        "Japanese": "興奮",
+        "English": "Agitation"
+    },
+    {
+        "Japanese": "エイリアンの本能",
+        "English": "Alien Instinct"
+    },
+    {
+        "Japanese": "天地を揺るがす雷",
+        "English": "All-Shaking Thunder"
+    },
+    {
+        "Japanese": "知覚覚醒",
+        "English": "Awakened Awareness"
+    },
+    {
+        "Japanese": "まやかし",
+        "English": "Bamboozle"
+    },
+    {
+        "Japanese": "バーベキュー＆チリ",
+        "English": "Barbecue & Chilli"
+    },
+    {
+        "Japanese": "電池付き",
+        "English": "Batteries Included"
+    },
+    {
+        "Japanese": "猛獣",
+        "English": "Beast of Prey"
+    },
+    {
+        "Japanese": "憎悪の囁き",
+        "English": "Bitter Murmur"
+    },
+    {
+        "Japanese": "血の共鳴",
+        "English": "Blood Echo"
+    },
+    {
+        "Japanese": "血の番人",
+        "English": "Blood Warden"
+    },
+    {
+        "Japanese": "血の追跡者",
+        "English": "Bloodhound"
+    },
+    {
+        "Japanese": "野蛮な力",
+        "English": "Brutal Strength"
+    },
+    {
+        "Japanese": "海の呼び声",
+        "English": "Call of Brine"
+    },
+    {
+        "Japanese": "堕落の介入",
+        "English": "Corrupt Intervention"
+    },
+    {
+        "Japanese": "ピエロ恐怖症",
+        "English": "Coulrophobia"
+    },
+    {
+        "Japanese": "とどめの一撃",
+        "English": "Coup de Grâce"
+    },
+    {
+        "Japanese": "無慈悲の極地",
+        "English": "Cruel Limits"
+    },
+    {
+        "Japanese": "闇の慢心",
+        "English": "Dark Arrogance"
+    },
+    {
+        "Japanese": "闇の信仰心",
+        "English": "Dark Devotion"
+    },
+    {
+        "Japanese": "露見する闇",
+        "English": "Darkness Revealed"
+    },
+    {
+        "Japanese": "死人のスイッチ",
+        "English": "Dead Man’s Switch"
+    },
+    {
+        "Japanese": "デッドロック",
+        "English": "Deadlock"
+    },
+    {
+        "Japanese": "デスバウンド",
+        "English": "Deathbound"
+    },
+    {
+        "Japanese": "忍び寄る者",
+        "English": "Deerstalker"
+    },
+    {
+        "Japanese": "不協和音",
+        "English": "Discordance"
+    },
+    {
+        "Japanese": "解体",
+        "English": "Dissolution"
+    },
+    {
+        "Japanese": "苦悶の根源",
+        "English": "Distressing"
+    },
+    {
+        "Japanese": "支配",
+        "English": "Dominance"
+    },
+    {
+        "Japanese": "ドラゴンの掌握",
+        "English": "Dragon’s Grip"
+    },
+    {
+        "Japanese": "消えゆく灯",
+        "English": "Dying Light"
+    },
+    {
+        "Japanese": "不屈",
+        "English": "Enduring"
+    },
+    {
+        "Japanese": "イラプション",
+        "English": "Eruption"
+    },
+    {
+        "Japanese": "ファイヤー・アップ",
+        "English": "Fire Up"
+    },
+    {
+        "Japanese": "躊躇の強制",
+        "English": "Forced Hesitation"
+    },
+    {
+        "Japanese": "強制苦行",
+        "English": "Forced Penance"
+    },
+    {
+        "Japanese": "フランクリンの悲劇",
+        "English": "Franklin’s Demise"
+    },
+    {
+        "Japanese": "死ぬまで親友",
+        "English": "Friends’til the End"
+    },
+    {
+        "Japanese": "隠密の追跡",
+        "English": "Furtive Chase"
+    },
+    {
+        "Japanese": "執拗な狩り",
+        "English": "Game Afoot"
+    },
+    {
+        "Japanese": "変速機",
+        "English": "Gearhead"
+    },
+    {
+        "Japanese": "遺伝的限界",
+        "English": "Genetic Limits"
+    },
+    {
+        "Japanese": "不吉な包囲",
+        "English": "Grim Embrace"
+    },
+    {
+        "Japanese": "血の恩恵",
+        "English": "Hex: Blood Favour"
+    },
+    {
+        "Japanese": "クラウドコントロール",
+        "English": "Hex: Crowd Control"
+    },
+    {
+        "Japanese": "貪られる希望",
+        "English": "Hex: Devour Hope"
+    },
+    {
+        "Japanese": "闇との対面",
+        "English": "Hex: Face the Darkness"
+    },
+    {
+        "Japanese": "霊障の地",
+        "English": "Hex: Haunted Ground"
+    },
+    {
+        "Japanese": "女狩人の子守唄",
+        "English": "Hex: Huntress Lullaby"
+    },
+    {
+        "Japanese": "誰も死から逃れられない",
+        "English": "Hex: No One Escapes Death"
+    },
+    {
+        "Japanese": "ペンティメント",
+        "English": "Hex: Pentimento"
+    },
+    {
+        "Japanese": "玩具",
+        "English": "Hex: Plaything"
+    },
+    {
+        "Japanese": "報復",
+        "English": "Hex: Retribution"
+    },
+    {
+        "Japanese": "破滅",
+        "English": "Hex: Ruin"
+    },
+    {
+        "Japanese": "第三の封印",
+        "English": "Hex: The Third Seal"
+    },
+    {
+        "Japanese": "狩りの興奮",
+        "English": "Hex: Thrill of the Hunt"
+    },
+    {
+        "Japanese": "二人遊び",
+        "English": "Hex: Two Can Play"
+    },
+    {
+        "Japanese": "不死",
+        "English": "Hex: Undying"
+    },
+    {
+        "Japanese": "呪術：悲惨な運命",
+        "English": "Hex: Wretched Fate"
+    },
+    {
+        "Japanese": "溜め込み屋",
+        "English": "Hoarder"
+    },
+    {
+        "Japanese": "ヒュブリス",
+        "English": "Hubris"
+    },
+    {
+        "Japanese": "人間の欲",
+        "English": "Human Greed"
+    },
+    {
+        "Japanese": "集団ヒステリー",
+        "English": "Hysteria"
+    },
+    {
+        "Japanese": "地獄耳",
+        "English": "I’m All Ears"
+    },
+    {
+        "Japanese": "伝播する怖気",
+        "English": "Infectious Fright"
+    },
+    {
+        "Japanese": "狡猾",
+        "English": "Insidious"
+    },
+    {
+        "Japanese": "鋼の握力",
+        "English": "Iron Grasp"
+    },
+    {
+        "Japanese": "アイアンメイデン",
+        "English": "Iron Maiden"
+    },
+    {
+        "Japanese": "ノックアウト",
+        "English": "Knock Out"
+    },
+    {
+        "Japanese": "倦怠感",
+        "English": "Languid Touch"
+    },
+    {
+        "Japanese": "死を呼ぶ追跡者",
+        "English": "Lethal Pursuer"
+    },
+    {
+        "Japanese": "骨抜きの作用",
+        "English": "Leverage"
+    },
+    {
+        "Japanese": "光より出でし者",
+        "English": "Lightborn"
+    },
+    {
+        "Japanese": "機械学習",
+        "English": "Machine Learning"
+    },
+    {
+        "Japanese": "狂気の根性",
+        "English": "Mad Grit"
+    },
+    {
+        "Japanese": "選択は君次第だ",
+        "English": "Make Your Choice"
+    },
+    {
+        "Japanese": "怒涛の嵐",
+        "English": "Merciless Storm"
+    },
+    {
+        "Japanese": "マインドブレーカー",
+        "English": "Mindbreaker"
+    },
+    {
+        "Japanese": "観察＆虐待",
+        "English": "Monitor & Abuse"
+    },
+    {
+        "Japanese": "天誅",
+        "English": "Nemesis"
+    },
+    {
+        "Japanese": "容赦なし",
+        "English": "No Quarter"
+    },
+    {
+        "Japanese": "袋小路",
+        "English": "No Way Out"
+    },
+    {
+        "Japanese": "隠れ場なし",
+        "English": "Nowhere to Hide"
+    },
+    {
+        "Japanese": "迫害",
+        "English": "Oppression"
+    },
+    {
+        "Japanese": "オーバーチャージ",
+        "English": "Overcharge"
+    },
+    {
+        "Japanese": "圧倒的存在感",
+        "English": "Overwhelming Presence"
+    },
+    {
+        "Japanese": "弄ばれる獲物",
+        "English": "Play with Your Food"
+    },
+    {
+        "Japanese": "イタチが飛び出した",
+        "English": "Pop Goes the Weasel"
+    },
+    {
+        "Japanese": "捕食者",
+        "English": "Predator"
+    },
+    {
+        "Japanese": "怨恨",
+        "English": "Rancor"
+    },
+    {
+        "Japanese": "素早い残虐行為",
+        "English": "Rapid Brutality"
+    },
+    {
+        "Japanese": "リメンバー・ミー",
+        "English": "Remember Me"
+    },
+    {
+        "Japanese": "最後のお楽しみ",
+        "English": "Save the Best for Last"
+    },
+    {
+        "Japanese": "氾濫する憤怒",
+        "English": "Scourge Hook: Floods of Rage"
+    },
+    {
+        "Japanese": "苦痛という名の賜り物",
+        "English": "Scourge Hook: Gift of Pain"
+    },
+    {
+        "Japanese": "処刑人の妙技",
+        "English": "Scourge Hook: Hangman’s Trick"
+    },
+    {
+        "Japanese": "不規則なコンパス",
+        "English": "Scourge Hook: Jagged Compass"
+    },
+    {
+        "Japanese": "異形の祭壇",
+        "English": "Scourge Hook: Monstrous Shrine"
+    },
+    {
+        "Japanese": "共鳴する苦痛",
+        "English": "Scourge Hook: Pain Resonance"
+    },
+    {
+        "Japanese": "腐敗の気配",
+        "English": "Septic Touch"
+    },
+    {
+        "Japanese": "闇より出でし者",
+        "English": "Shadowborn"
+    },
+    {
+        "Japanese": "打ち砕かれた希望",
+        "English": "Shattered Hope"
+    },
+    {
+        "Japanese": "ずさんな肉屋",
+        "English": "Sloppy Butcher"
+    },
+    {
+        "Japanese": "影の密偵",
+        "English": "Spies from the Shadows"
+    },
+    {
+        "Japanese": "怨霊の怒り",
+        "English": "Spirit Fury"
+    },
+    {
+        "Japanese": "スターに憧れて",
+        "English": "Starstruck"
+    },
+    {
+        "Japanese": "喘鳴",
+        "English": "Stridor"
+    },
+    {
+        "Japanese": "人体の超越",
+        "English": "Superior Anatomy"
+    },
+    {
+        "Japanese": "サージ",
+        "English": "Surge"
+    },
+    {
+        "Japanese": "監視",
+        "English": "Surveillance"
+    },
+    {
+        "Japanese": "終末期",
+        "English": "Terminus"
+    },
+    {
+        "Japanese": "縄張り意識",
+        "English": "Territorial Imperative"
+    },
+    {
+        "Japanese": "死恐怖症",
+        "English": "Thanatophobia"
+    },
+    {
+        "Japanese": "戦慄",
+        "English": "Thrilling Tremors"
+    },
+    {
+        "Japanese": "バシッ！",
+        "English": "THWACK!"
+    },
+    {
+        "Japanese": "ガラクタいじり",
+        "English": "Tinkerer"
+    },
+    {
+        "Japanese": "煩悶のトレイル",
+        "English": "Trail of Torment"
+    },
+    {
+        "Japanese": "究極の武器",
+        "English": "Ultimate Weapon"
+    },
+    {
+        "Japanese": "アンバウンド",
+        "English": "Unbound"
+    },
+    {
+        "Japanese": "アンダン",
+        "English": "Undone"
+    },
+    {
+        "Japanese": "アンフォーシーン",
+        "English": "Unforeseen"
+    },
+    {
+        "Japanese": "不安の元凶",
+        "English": "Unnerving Presence"
+    },
+    {
+        "Japanese": "無慈悲",
+        "English": "Unrelenting"
+    },
+    {
+        "Japanese": "同調",
+        "English": "Weave Attunement"
+    },
+    {
+        "Japanese": "囁き",
+        "English": "Whispers"
+    },
+    {
+        "Japanese": "残心の戦術",
+        "English": "Zanshin Tactics"
+    }
+]
