@@ -552,7 +552,7 @@
         "English": "Bardic Inspiration"
     },
     {
-        "Japanese": "新品同様",
+        "Japanese": "みなぎる活力",
         "English": "Better than New"
     },
     {
@@ -560,7 +560,7 @@
         "English": "Better Together"
     },
     {
-        "Japanese": "痛みに耐えろ",
+        "Japanese": "忍苦の時",
         "English": "Bite the Bullet"
     },
     {
@@ -604,7 +604,7 @@
         "English": "Boon: Shadow Step"
     },
     {
-        "Japanese": "借りた時間",
+        "Japanese": "与えられた猶予",
         "English": "Borrowed Time"
     },
     {
@@ -632,7 +632,7 @@
         "English": "Calm Spirit"
     },
     {
-        "Japanese": "友情",
+        "Japanese": "仲間意識",
         "English": "Camaraderie"
     },
     {
@@ -648,7 +648,7 @@
         "English": "Clairvoyance"
     },
     {
-        "Japanese": "手際の良い脱出",
+        "Japanese": "決別",
         "English": "Clean Break"
     },
     {
@@ -660,7 +660,7 @@
         "English": "Counterforce"
     },
     {
-        "Japanese": "邪魔をするな",
+        "Japanese": "逃亡の飛躍",
         "English": "Cut Loose"
     },
     {
@@ -736,7 +736,7 @@
         "English": "Fast Track"
     },
     {
-        "Japanese": "フィネス",
+        "Japanese": "俊敏",
         "English": "Finesse"
     },
     {
@@ -744,7 +744,7 @@
         "English": "Fixated"
     },
     {
-        "Japanese": "閃光手榴弾",
+        "Japanese": "スタングレネード",
         "English": "Flashbang"
     },
     {
@@ -752,7 +752,7 @@
         "English": "Flip-Flop"
     },
     {
-        "Japanese": "霧の知恵",
+        "Japanese": "霧の作法",
         "English": "Fogwise"
     },
     {
@@ -760,7 +760,7 @@
         "English": "For the People"
     },
     {
-        "Japanese": "友好的競争",
+        "Japanese": "切磋琢磨",
         "English": "Friendly Competition"
     },
     {
@@ -776,7 +776,7 @@
         "English": "Hope"
     },
     {
-        "Japanese": "ハイパーフォーカス",
+        "Japanese": "全集中",
         "English": "Hyperfocus"
     },
     {
@@ -812,7 +812,7 @@
         "English": "Left Behind"
     },
     {
-        "Japanese": "足音も無く",
+        "Japanese": "忍び足",
         "English": "Light-Footed"
     },
     {
@@ -820,15 +820,15 @@
         "English": "Lightweight"
     },
     {
-        "Japanese": "逃亡の飛躍",
+        "Japanese": "しなやか",
         "English": "Lithe"
     },
     {
-        "Japanese": "ロー・プロファイル",
+        "Japanese": "雲隠れ",
         "English": "Low Profile"
     },
     {
-        "Japanese": "幸運の打破",
+        "Japanese": "怪我の功名",
         "English": "Lucky Break"
     },
     {
@@ -836,11 +836,11 @@
         "English": "Lucky Star"
     },
     {
-        "Japanese": "覚悟",
+        "Japanese": "状況適応能力",
         "English": "Made for This"
     },
     {
-        "Japanese": "鋼の魂",
+        "Japanese": "英雄の奮起",
         "English": "Mettle of Man"
     },
     {
@@ -860,7 +860,7 @@
         "English": "No One Left Behind"
     },
     {
-        "Japanese": "オブセッション",
+        "Japanese": "執念の対象",
         "English": "Object of Obsession"
     },
     {
@@ -872,7 +872,7 @@
         "English": "Open-Handed"
     },
     {
-        "Japanese": "乗り越える",
+        "Japanese": "打開策",
         "English": "Overcome"
     },
     {
@@ -888,7 +888,7 @@
         "English": "Pharmacy"
     },
     {
-        "Japanese": "プロットツイスト",
+        "Japanese": "予想外の展開",
         "English": "Plot Twist"
     },
     {
@@ -896,7 +896,7 @@
         "English": "Plunderer's Instinct"
     },
     {
-        "Japanese": "冷静沈着",
+        "Japanese": "平常心",
         "English": "Poised"
     },
     {
@@ -904,7 +904,7 @@
         "English": "Potential Energy"
     },
     {
-        "Japanese": "力の奔流",
+        "Japanese": "勢力争い",
         "English": "Power Struggle"
     },
     {
@@ -920,7 +920,7 @@
         "English": "Quick & Quiet"
     },
     {
-        "Japanese": "電光石火",
+        "Japanese": "加速の策略",
         "English": "Quick Gambit"
     },
     {
@@ -932,7 +932,7 @@
         "English": "Reassurance"
     },
     {
-        "Japanese": "レッド・ヘリング",
+        "Japanese": "おとり",
         "English": "Red Herring"
     },
     {
@@ -944,15 +944,15 @@
         "English": "Residual Manifest"
     },
     {
-        "Japanese": "不屈",
+        "Japanese": "逆境魂",
         "English": "Resilience"
     },
     {
-        "Japanese": "蘇生",
+        "Japanese": "起死回生",
         "English": "Resurgence"
     },
     {
-        "Japanese": "ルーキー魂",
+        "Japanese": "新人魂",
         "English": "Rookie Spirit"
     },
     {
@@ -976,7 +976,7 @@
         "English": "Self-Care"
     },
     {
-        "Japanese": "自己保存",
+        "Japanese": "自己防衛",
         "English": "Self-Preservation"
     },
     {
@@ -1028,7 +1028,7 @@
         "English": "Still Sight"
     },
     {
-        "Japanese": "都会の知恵",
+        "Japanese": "都会の生存術",
         "English": "Streetwise"
     },
     {
@@ -1048,15 +1048,15 @@
         "English": "Technician"
     },
     {
-        "Japanese": "粘り強さ",
+        "Japanese": "執念",
         "English": "Tenacity"
     },
     {
-        "Japanese": "これは大変だ！",
+        "Japanese": "病も気から",
         "English": "This Is Not Happening"
     },
     {
-        "Japanese": "トラブルシューター",
+        "Japanese": "修理担当",
         "English": "Troubleshooter"
     },
     {
@@ -1073,7 +1073,7 @@
     },
     {
         "Japanese": "警戒",
-        "English": "Vigil"
+        "English": "寝ずの番"
     },
     {
         "Japanese": "透視家",
@@ -1084,15 +1084,15 @@
         "English": "Wake Up!"
     },
     {
-        "Japanese": "必ずやり遂げる",
+        "Japanese": "きっとやり遂げる",
         "English": "We'll Make It"
     },
     {
-        "Japanese": "永遠に生きよう",
+        "Japanese": "ずっと一緒だ",
         "English": "We're Gonna Live Forever"
     },
     {
-        "Japanese": "邪悪",
+        "Japanese": "邪気",
         "English": "Wicked"
     },
     {
