@@ -506,5 +506,601 @@
     {
         "Japanese": "残心の戦術",
         "English": "Zanshin Tactics"
+    },
+    {
+        "Japanese": "最後の切り札",
+        "English": "Ace in the Hole"
+    },
+    {
+        "Japanese": "アドレナリン",
+        "English": "Adrenaline"
+    },
+    {
+        "Japanese": "アフターケア",
+        "English": "Aftercare"
+    },
+    {
+        "Japanese": "警戒",
+        "English": "Alert"
+    },
+    {
+        "Japanese": "有能の証明",
+        "English": "Any Means Necessary"
+    },
+    {
+        "Japanese": "査定",
+        "English": "Appraisal"
+    },
+    {
+        "Japanese": "独学者",
+        "English": "Autodidact"
+    },
+    {
+        "Japanese": "ベビーシッター",
+        "English": "Babysitter"
+    },
+    {
+        "Japanese": "陽動",
+        "English": "Background Player"
+    },
+    {
+        "Japanese": "しなやか",
+        "English": "Balanced Landing"
+    },
+    {
+        "Japanese": "吟遊詩人の鼓舞",
+        "English": "Bardic Inspiration"
+    },
+    {
+        "Japanese": "新品同様",
+        "English": "Better than New"
+    },
+    {
+        "Japanese": "ずっと一緒だ",
+        "English": "Better Together"
+    },
+    {
+        "Japanese": "痛みに耐えろ",
+        "English": "Bite the Bullet"
+    },
+    {
+        "Japanese": "地雷爆破",
+        "English": "Blast Mine"
+    },
+    {
+        "Japanese": "血の協定",
+        "English": "Blood Pact"
+    },
+    {
+        "Japanese": "血の騒ぎ",
+        "English": "Blood Rush"
+    },
+    {
+        "Japanese": "ボイルオーバー",
+        "English": "Boil Over"
+    },
+    {
+        "Japanese": "絆",
+        "English": "Bond"
+    },
+    {
+        "Japanese": "癒しの輪",
+        "English": "Boon: Circle of Healing"
+    },
+    {
+        "Japanese": "霊界理論",
+        "English": "Boon: Dark Theory"
+    },
+    {
+        "Japanese": "指数関数",
+        "English": "Boon: Exponential"
+    },
+    {
+        "Japanese": "イルミネーション",
+        "English": "Boon: Illumination"
+    },
+    {
+        "Japanese": "シャドウステップ",
+        "English": "Boon: Shadow Step"
+    },
+    {
+        "Japanese": "借りた時間",
+        "English": "Borrowed Time"
+    },
+    {
+        "Japanese": "植物学の知識",
+        "English": "Botany Knowledge"
+    },
+    {
+        "Japanese": "ブレイクダウン",
+        "English": "Breakdown"
+    },
+    {
+        "Japanese": "突破",
+        "English": "Breakout"
+    },
+    {
+        "Japanese": "ベルトを締めろ！",
+        "English": "Buckle Up"
+    },
+    {
+        "Japanese": "耐久設計",
+        "English": "Built to Last"
+    },
+    {
+        "Japanese": "魂の平穏",
+        "English": "Calm Spirit"
+    },
+    {
+        "Japanese": "友情",
+        "English": "Camaraderie"
+    },
+    {
+        "Japanese": "光の闘士",
+        "English": "Champion of Light"
+    },
+    {
+        "Japanese": "化学的な罠",
+        "English": "Chemical Trap"
+    },
+    {
+        "Japanese": "千里眼",
+        "English": "Clairvoyance"
+    },
+    {
+        "Japanese": "手際の良い脱出",
+        "English": "Clean Break"
+    },
+    {
+        "Japanese": "是正措置",
+        "English": "Corrective Action"
+    },
+    {
+        "Japanese": "カウンターフォース",
+        "English": "Counterforce"
+    },
+    {
+        "Japanese": "邪魔をするな",
+        "English": "Cut Loose"
+    },
+    {
+        "Japanese": "ダンス・ウィズ・ミー",
+        "English": "Dance With Me"
+    },
+    {
+        "Japanese": "闇の感覚",
+        "English": "Dark Sense"
+    },
+    {
+        "Japanese": "デッド・ハード",
+        "English": "Dead Hard"
+    },
+    {
+        "Japanese": "締め切り",
+        "English": "Deadline"
+    },
+    {
+        "Japanese": "欺き",
+        "English": "Deception"
+    },
+    {
+        "Japanese": "決死の一撃",
+        "English": "Decisive Strike"
+    },
+    {
+        "Japanese": "デジャヴ",
+        "English": "Déjà Vu"
+    },
+    {
+        "Japanese": "解放",
+        "English": "Deliverance"
+    },
+    {
+        "Japanese": "苦肉の策",
+        "English": "Desperate Measures"
+    },
+    {
+        "Japanese": "刑事の直感",
+        "English": "Detective's Hunch"
+    },
+    {
+        "Japanese": "ディストーション",
+        "English": "Distortion"
+    },
+    {
+        "Japanese": "陽動",
+        "English": "Diversion"
+    },
+    {
+        "Japanese": "劇作法",
+        "English": "Dramaturgy"
+    },
+    {
+        "Japanese": "共感的つながり",
+        "English": "Empathic Connection"
+    },
+    {
+        "Japanese": "共感",
+        "English": "Empathy"
+    },
+    {
+        "Japanese": "歓喜",
+        "English": "Exultation"
+    },
+    {
+        "Japanese": "ベルモンドの目",
+        "English": "Eyes of Belmont"
+    },
+    {
+        "Japanese": "出世街道",
+        "English": "Fast Track"
+    },
+    {
+        "Japanese": "フィネス",
+        "English": "Finesse"
+    },
+    {
+        "Japanese": "固執",
+        "English": "Fixated"
+    },
+    {
+        "Japanese": "閃光手榴弾",
+        "English": "Flashbang"
+    },
+    {
+        "Japanese": "フリップ・フロップ",
+        "English": "Flip-Flop"
+    },
+    {
+        "Japanese": "霧の知恵",
+        "English": "Fogwise"
+    },
+    {
+        "Japanese": "人々のために",
+        "English": "For the People"
+    },
+    {
+        "Japanese": "友好的競争",
+        "English": "Friendly Competition"
+    },
+    {
+        "Japanese": "強靭",
+        "English": "Hardened"
+    },
+    {
+        "Japanese": "真っ向勝負",
+        "English": "Head On"
+    },
+    {
+        "Japanese": "希望",
+        "English": "Hope"
+    },
+    {
+        "Japanese": "ハイパーフォーカス",
+        "English": "Hyperfocus"
+    },
+    {
+        "Japanese": "インナーフォーカス",
+        "English": "Inner Focus"
+    },
+    {
+        "Japanese": "内なる力",
+        "English": "Inner Strength"
+    },
+    {
+        "Japanese": "呼び出し：裏切り者のカラス",
+        "English": "Invocation: Treacherous Crows"
+    },
+    {
+        "Japanese": "呼び出し：網を張る蜘蛛",
+        "English": "Invocation: Weaving Spiders"
+    },
+    {
+        "Japanese": "鋼の意思",
+        "English": "Iron Will"
+    },
+    {
+        "Japanese": "血族",
+        "English": "Kindred"
+    },
+    {
+        "Japanese": "リーダー",
+        "English": "Leader"
+    },
+    {
+        "Japanese": "置き去りにされた者",
+        "English": "Left Behind"
+    },
+    {
+        "Japanese": "足音も無く",
+        "English": "Light-Footed"
+    },
+    {
+        "Japanese": "身軽",
+        "English": "Lightweight"
+    },
+    {
+        "Japanese": "逃亡の飛躍",
+        "English": "Lithe"
+    },
+    {
+        "Japanese": "ロー・プロファイル",
+        "English": "Low Profile"
+    },
+    {
+        "Japanese": "幸運の打破",
+        "English": "Lucky Break"
+    },
+    {
+        "Japanese": "幸運の星",
+        "English": "Lucky Star"
+    },
+    {
+        "Japanese": "覚悟",
+        "English": "Made for This"
+    },
+    {
+        "Japanese": "鋼の魂",
+        "English": "Mettle of Man"
+    },
+    {
+        "Japanese": "幻影",
+        "English": "Mirrored Illusion"
+    },
+    {
+        "Japanese": "栄光の瞬間",
+        "English": "Moment of Glory"
+    },
+    {
+        "Japanese": "弱音はナシだ",
+        "English": "No Mither"
+    },
+    {
+        "Japanese": "誰も見捨てはしない",
+        "English": "No One Left Behind"
+    },
+    {
+        "Japanese": "オブセッション",
+        "English": "Object of Obsession"
+    },
+    {
+        "Japanese": "オフレコ",
+        "English": "Off the Record"
+    },
+    {
+        "Japanese": "手札公開",
+        "English": "Open-Handed"
+    },
+    {
+        "Japanese": "乗り越える",
+        "English": "Overcome"
+    },
+    {
+        "Japanese": "過剰な熱意",
+        "English": "Overzealous"
+    },
+    {
+        "Japanese": "父の助言",
+        "English": "Parental Guidance"
+    },
+    {
+        "Japanese": "調剤学",
+        "English": "Pharmacy"
+    },
+    {
+        "Japanese": "プロットツイスト",
+        "English": "Plot Twist"
+    },
+    {
+        "Japanese": "コソ泥の本能",
+        "English": "Plunderer's Instinct"
+    },
+    {
+        "Japanese": "冷静沈着",
+        "English": "Poised"
+    },
+    {
+        "Japanese": "位置エネルギー",
+        "English": "Potential Energy"
+    },
+    {
+        "Japanese": "力の奔流",
+        "English": "Power Struggle"
+    },
+    {
+        "Japanese": "予感",
+        "English": "Premonition"
+    },
+    {
+        "Japanese": "有能の証明",
+        "English": "Prove Thyself"
+    },
+    {
+        "Japanese": "素早く静かに",
+        "English": "Quick & Quiet"
+    },
+    {
+        "Japanese": "電光石火",
+        "English": "Quick Gambit"
+    },
+    {
+        "Japanese": "反応性治癒",
+        "English": "Reactive Healing"
+    },
+    {
+        "Japanese": "安心感",
+        "English": "Reassurance"
+    },
+    {
+        "Japanese": "レッド・ヘリング",
+        "English": "Red Herring"
+    },
+    {
+        "Japanese": "抑圧の同盟",
+        "English": "Repressed Alliance"
+    },
+    {
+        "Japanese": "残留思念",
+        "English": "Residual Manifest"
+    },
+    {
+        "Japanese": "不屈",
+        "English": "Resilience"
+    },
+    {
+        "Japanese": "蘇生",
+        "English": "Resurgence"
+    },
+    {
+        "Japanese": "ルーキー魂",
+        "English": "Rookie Spirit"
+    },
+    {
+        "Japanese": "サボタージュ",
+        "English": "Saboteur"
+    },
+    {
+        "Japanese": "ゴミ漁りの名人",
+        "English": "Scavenger"
+    },
+    {
+        "Japanese": "シーンの相手役",
+        "English": "Scene Partner"
+    },
+    {
+        "Japanese": "セカンド・ウィンド",
+        "English": "Second Wind"
+    },
+    {
+        "Japanese": "セルフケア",
+        "English": "Self-Care"
+    },
+    {
+        "Japanese": "自己保存",
+        "English": "Self-Preservation"
+    },
+    {
+        "Japanese": "重責の引き受け",
+        "English": "Shoulder the Burden"
+    },
+    {
+        "Japanese": "ツルツルとした肉体",
+        "English": "Slippery Meat"
+    },
+    {
+        "Japanese": "小さな獲物",
+        "English": "Small Game"
+    },
+    {
+        "Japanese": "スマッシュヒット",
+        "English": "Smash Hit"
+    },
+    {
+        "Japanese": "唯一の生存者",
+        "English": "Sole Survivor"
+    },
+    {
+        "Japanese": "連帯感",
+        "English": "Solidarity"
+    },
+    {
+        "Japanese": "ソウルガード",
+        "English": "Soul Guard"
+    },
+    {
+        "Japanese": "スペシャリスト",
+        "English": "Specialist"
+    },
+    {
+        "Japanese": "凍りつく視線",
+        "English": "Spine Chill"
+    },
+    {
+        "Japanese": "全力疾走",
+        "English": "Sprint Burst"
+    },
+    {
+        "Japanese": "張り込み",
+        "English": "Stake Out"
+    },
+    {
+        "Japanese": "不動の視力",
+        "English": "Still Sight"
+    },
+    {
+        "Japanese": "都会の知恵",
+        "English": "Streetwise"
+    },
+    {
+        "Japanese": "影に潜む強み",
+        "English": "Strength in Shadows"
+    },
+    {
+        "Japanese": "チームワーク：共同ステルス",
+        "English": "Teamwork: Collective Stealth"
+    },
+    {
+        "Japanese": "チームワーク：二人の力",
+        "English": "Teamwork: Power of Two"
+    },
+    {
+        "Japanese": "テクニシャン",
+        "English": "Technician"
+    },
+    {
+        "Japanese": "粘り強さ",
+        "English": "Tenacity"
+    },
+    {
+        "Japanese": "これは大変だ！",
+        "English": "This Is Not Happening"
+    },
+    {
+        "Japanese": "トラブルシューター",
+        "English": "Troubleshooter"
+    },
+    {
+        "Japanese": "不滅",
+        "English": "Unbreakable"
+    },
+    {
+        "Japanese": "賭け金のレイズ",
+        "English": "Up the Ante"
+    },
+    {
+        "Japanese": "都会の逃走術",
+        "English": "Urban Evasion"
+    },
+    {
+        "Japanese": "警戒",
+        "English": "Vigil"
+    },
+    {
+        "Japanese": "透視家",
+        "English": "Visionary"
+    },
+    {
+        "Japanese": "目を覚ませ！",
+        "English": "Wake Up!"
+    },
+    {
+        "Japanese": "必ずやり遂げる",
+        "English": "We'll Make It"
+    },
+    {
+        "Japanese": "永遠に生きよう",
+        "English": "We're Gonna Live Forever"
+    },
+    {
+        "Japanese": "邪悪",
+        "English": "Wicked"
+    },
+    {
+        "Japanese": "ウィンドウズ・オブ・オポチュニティ",
+        "English": "Windows of Opportunity"
+    },
+    {
+        "Japanese": "盗聴",
+        "English": "Wiretap"
     }
 ]
